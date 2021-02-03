@@ -56,6 +56,7 @@ main {
     display: flex;  
     justify-content: center;    
     background-color: cornsilk; 
+    
 }
 
 
@@ -139,6 +140,7 @@ button:active {
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
+    margin: -10px 0;
     
 
 }
@@ -152,7 +154,9 @@ button:active {
     flex-direction: row;
     justify-content: space-evenly;  /* чтобы выравнять элементы внутри ряда */
     align-items: center;
+    margin: -10px 0;
 }
+
 
  
 
